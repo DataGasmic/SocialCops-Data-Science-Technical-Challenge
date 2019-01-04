@@ -1,0 +1,156 @@
+commodity,year,Type,msprice
+sugarcane,2016,Other Crops,230.0
+sugarcane,2012,Other Crops,170.0
+sugarcane,2013,Other Crops,210.0
+sugarcane,2014,Other Crops,220.0
+sugarcane,2015,Other Crops,230.0
+jute_yellow,2012,Other Crops,2200.0
+jute_yellow,2013,Other Crops,2300.0
+jute_yellow,2014,Other Crops,2400.0
+jute_yellow,2015,Other Crops,2700.0
+jute_yellow,2016,Other Crops,3200.0
+coconut,2012,Other Crops,1400.0
+coconut,2013,Other Crops,1425.0
+coconut,2014,Other Crops,1425.0
+coconut,2015,Other Crops,1500.0
+coconut,2016,Other Crops,1600.0
+copra (ball)_yellow,2012,Other Crops,5350.0
+copra (ball)_yellow,2013,Other Crops,5500.0
+copra (ball)_yellow,2014,Other Crops,5500.0
+copra (ball)_yellow,2015,Other Crops,5830.0
+copra (ball)_yellow,2016,Other Crops,6240.0
+copra (milling)_yellow,2012,Other Crops,5100.0
+copra (milling)_yellow,2013,Other Crops,5250.0
+copra (milling)_yellow,2014,Other Crops,5250.0
+copra (milling)_yellow,2015,Other Crops,5550.0
+copra (milling)_yellow,2016,Other Crops,5950.0
+toria_yellow,2012,Rabi Crops,2970.0
+toria_yellow,2013,Rabi Crops,3020.0
+toria_yellow,2014,Rabi Crops,3020.0
+toria_yellow,2015,Rabi Crops,3157.5
+toria_yellow,2016,Rabi Crops,3075.0
+safflower,2012,Rabi Crops,2925.0
+safflower,2013,Rabi Crops,3000.0
+safflower,2014,Rabi Crops,3050.0
+safflower,2015,Rabi Crops,3125.0
+safflower,2016,Rabi Crops,3037.5
+mustard,2012,Rabi Crops,3000.0
+mustard,2013,Rabi Crops,3050.0
+mustard,2014,Rabi Crops,3100.0
+mustard,2015,Rabi Crops,3237.5
+mustard,2016,Rabi Crops,3125.0
+masur_yellow,2012,Rabi Crops,2900.0
+masur_yellow,2013,Rabi Crops,2950.0
+masur_yellow,2014,Rabi Crops,3075.0
+masur_yellow,2015,Rabi Crops,3262.5
+masur_yellow,2016,Rabi Crops,3062.5
+gram_yellow,2012,Rabi Crops,3000.0
+gram_yellow,2013,Rabi Crops,3100.0
+gram_yellow,2014,Rabi Crops,3175.0
+gram_yellow,2015,Rabi Crops,3287.5
+gram_yellow,2016,Rabi Crops,3175.0
+barli,2012,Rabi Crops,1025.0
+barli,2013,Rabi Crops,1100.0
+barli,2014,Rabi Crops,1150.0
+barli,2015,Rabi Crops,1225.0
+barli,2016,Rabi Crops,1113.75
+wheat(unhusked),2012,Rabi Crops,1350.0
+wheat(unhusked),2013,Rabi Crops,1400.0
+wheat(unhusked),2014,Rabi Crops,1450.0
+wheat(unhusked),2015,Rabi Crops,1525.0
+wheat(unhusked),2016,Rabi Crops,1431.25
+wheat(husked),2012,Rabi Crops,1350.0
+wheat(husked),2013,Rabi Crops,1400.0
+wheat(husked),2014,Rabi Crops,1450.0
+wheat(husked),2015,Rabi Crops,1525.0
+wheat(husked),2016,Rabi Crops,1431.25
+niger-seed,2012,Kharif Crops,3500.0
+niger-seed,2013,Kharif Crops,3500.0
+niger-seed,2014,Kharif Crops,3600.0
+niger-seed,2015,Kharif Crops,3650.0
+niger-seed,2016,Kharif Crops,3725.0
+sesamum,2012,Kharif Crops,5000.0
+sesamum,2013,Kharif Crops,4500.0
+sesamum,2014,Kharif Crops,4600.0
+sesamum,2015,Kharif Crops,4700.0
+sesamum,2016,Kharif Crops,4800.0
+soybean,2012,Kharif Crops,2500.0
+soybean,2013,Kharif Crops,2560.0
+soybean,2014,Kharif Crops,2560.0
+soybean,2015,Kharif Crops,2600.0
+soybean,2016,Kharif Crops,2660.0
+soyabean_black,2012,Kharif Crops,2250.0
+soyabean_black,2013,Kharif Crops,2500.0
+soyabean_black,2014,Kharif Crops,2500.0
+soyabean_black,2015,Kharif Crops,2400.0
+soyabean_black,2016,Kharif Crops,2400.0
+sunflower,2012,Kharif Crops,3700.0
+sunflower,2013,Kharif Crops,3700.0
+sunflower,2014,Kharif Crops,3750.0
+sunflower,2015,Kharif Crops,3800.0
+sunflower,2016,Kharif Crops,3850.0
+gr.nut kernels,2012,Kharif Crops,3955.0
+gr.nut kernels,2013,Kharif Crops,4000.0
+gr.nut kernels,2014,Kharif Crops,4000.0
+gr.nut kernels,2015,Kharif Crops,4030.0
+gr.nut kernels,2016,Kharif Crops,4075.0
+cotton_long staple,2012,Kharif Crops,3900.0
+cotton_long staple,2013,Kharif Crops,4000.0
+cotton_long staple,2014,Kharif Crops,4050.0
+cotton_long staple,2015,Kharif Crops,4100.0
+cotton_long staple,2016,Kharif Crops,4160.0
+cotton,2012,Kharif Crops,3600.0
+cotton,2013,Kharif Crops,3700.0
+cotton,2014,Kharif Crops,3750.0
+cotton,2015,Kharif Crops,3800.0
+cotton,2016,Kharif Crops,3860.0
+split black gram,2012,Kharif Crops,4300.0
+split black gram,2013,Kharif Crops,4300.0
+split black gram,2014,Kharif Crops,4350.0
+split black gram,2015,Kharif Crops,4425.0
+split black gram,2016,Kharif Crops,4575.0
+spilt gerrn gram,2012,Kharif Crops,4400.0
+spilt gerrn gram,2013,Kharif Crops,4500.0
+spilt gerrn gram,2014,Kharif Crops,4600.0
+spilt gerrn gram,2015,Kharif Crops,4650.0
+spilt gerrn gram,2016,Kharif Crops,4800.0
+pigeon pea (tur),2012,Kharif Crops,4112.5
+pigeon pea (tur),2013,Kharif Crops,4300.0
+pigeon pea (tur),2014,Kharif Crops,4350.0
+pigeon pea (tur),2015,Kharif Crops,4425.0
+pigeon pea (tur),2016,Kharif Crops,4612.5
+ragi_maldandi,2012,Kharif Crops,1500.0
+ragi_maldandi,2013,Kharif Crops,1500.0
+ragi_maldandi,2014,Kharif Crops,1550.0
+ragi_maldandi,2015,Kharif Crops,1650.0
+ragi_maldandi,2016,Kharif Crops,1725.0
+maize,2012,Kharif Crops,1287.5
+maize,2013,Kharif Crops,1310.0
+maize,2014,Kharif Crops,1310.0
+maize,2015,Kharif Crops,1325.0
+maize,2016,Kharif Crops,1347.5
+bajri,2012,Kharif Crops,1175.0
+bajri,2013,Kharif Crops,1310.0
+bajri,2014,Kharif Crops,1250.0
+bajri,2015,Kharif Crops,1275.0
+bajri,2016,Kharif Crops,1330.0
+sorgum(jawar),2012,Kharif Crops,1520.0
+sorgum(jawar),2013,Kharif Crops,1520.0
+sorgum(jawar),2014,Kharif Crops,1550.0
+sorgum(jawar),2015,Kharif Crops,1590.0
+sorgum(jawar),2016,Kharif Crops,1650.0
+jowar_hybrid,2012,Kharif Crops,1500.0
+jowar_hybrid,2013,Kharif Crops,1500.0
+jowar_hybrid,2014,Kharif Crops,1530.0
+jowar_hybrid,2015,Kharif Crops,1570.0
+jowar_hybrid,2016,Kharif Crops,1625.0
+rice(paddy-hus),2012,Kharif Crops,1280.0
+rice(paddy-hus),2013,Kharif Crops,1345.0
+rice(paddy-hus),2014,Kharif Crops,1400.0
+rice(paddy-hus),2015,Kharif Crops,1450.0
+rice(paddy-hus),2016,Kharif Crops,1510.0
+paddy-unhusked,2012,Kharif Crops,1250.0
+paddy-unhusked,2013,Kharif Crops,1310.0
+paddy-unhusked,2014,Kharif Crops,1360.0
+paddy-unhusked,2015,Kharif Crops,1410.0
+paddy-unhusked,2016,Kharif Crops,1470.0

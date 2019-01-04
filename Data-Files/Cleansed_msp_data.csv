@@ -1,0 +1,156 @@
+,commodity,year,Type,msprice
+0,paddy-unhusked,2012,Kharif Crops,1250.0
+1,rice(paddy-hus),2012,Kharif Crops,1280.0
+2,jowar_hybrid,2012,Kharif Crops,1500.0
+3,sorgum(jawar),2012,Kharif Crops,1520.0
+4,bajri,2012,Kharif Crops,1175.0
+5,maize,2012,Kharif Crops,1175.0
+6,ragi_maldandi,2012,Kharif Crops,1500.0
+7,pigeon pea (tur),2012,Kharif Crops,3850.0
+8,spilt gerrn gram,2012,Kharif Crops,4400.0
+9,split black gram,2012,Kharif Crops,4300.0
+10,cotton,2012,Kharif Crops,3600.0
+11,cotton_long staple,2012,Kharif Crops,3900.0
+12,gr.nut kernels,2012,Kharif Crops,3700.0
+13,sunflower,2012,Kharif Crops,3700.0
+14,soyabean_black,2012,Kharif Crops,2200.0
+15,soyabean,2012,Kharif Crops,2240.0
+16,sesamum,2012,Kharif Crops,4200.0
+17,niger-seed,2012,Kharif Crops,3500.0
+18,wheat(husked),2012,Rabi Crops,1350.0
+19,wheat(unhusked),2012,Rabi Crops,1350.0
+20,barli,2012,Rabi Crops,980.0
+21,gram_yellow,2012,Rabi Crops,3000.0
+22,masur_yellow,2012,Rabi Crops,2900.0
+23,mustard,2012,Rabi Crops,3000.0
+24,safflower,2012,Rabi Crops,2800.0
+25,toria_yellow,2012,Rabi Crops,2970.0
+26,copra (milling)_yellow,2012,Other Crops,5100.0
+27,copra (ball)_yellow,2012,Other Crops,5350.0
+28,coconut,2012,Other Crops,1400.0
+29,jute_yellow,2012,Other Crops,2200.0
+30,sugar-cane,2012,Other Crops,170.0
+31,paddy-unhusked,2013,Kharif Crops,1310.0
+32,rice(paddy-hus),2013,Kharif Crops,1345.0
+33,jowar_hybrid,2013,Kharif Crops,1500.0
+34,sorgum(jawar),2013,Kharif Crops,1520.0
+35,bajri,2013,Kharif Crops,1310.0
+36,maize,2013,Kharif Crops,1310.0
+37,ragi_maldandi,2013,Kharif Crops,1500.0
+38,pigeon pea (tur),2013,Kharif Crops,4300.0
+39,spilt gerrn gram,2013,Kharif Crops,4500.0
+40,split black gram,2013,Kharif Crops,4300.0
+41,cotton,2013,Kharif Crops,3700.0
+42,cotton_long staple,2013,Kharif Crops,4000.0
+43,gr.nut kernels,2013,Kharif Crops,4000.0
+44,sunflower,2013,Kharif Crops,3700.0
+45,soyabean_black,2013,Kharif Crops,2500.0
+46,soyabean,2013,Kharif Crops,2560.0
+47,sesamum,2013,Kharif Crops,4500.0
+48,niger-seed,2013,Kharif Crops,3500.0
+49,wheat(husked),2013,Rabi Crops,1400.0
+50,wheat(unhusked),2013,Rabi Crops,1400.0
+51,barli,2013,Rabi Crops,1100.0
+52,gram_yellow,2013,Rabi Crops,3100.0
+53,masur_yellow,2013,Rabi Crops,2950.0
+54,mustard,2013,Rabi Crops,3050.0
+55,safflower,2013,Rabi Crops,3000.0
+56,toria_yellow,2013,Rabi Crops,3020.0
+57,copra (milling)_yellow,2013,Other Crops,5250.0
+58,copra (ball)_yellow,2013,Other Crops,5500.0
+59,coconut,2013,Other Crops,1425.0
+60,jute_yellow,2013,Other Crops,2300.0
+61,sugar-cane,2013,Other Crops,210.0
+62,paddy-unhusked,2014,Kharif Crops,1360.0
+63,rice(paddy-hus),2014,Kharif Crops,1400.0
+64,jowar_hybrid,2014,Kharif Crops,1530.0
+65,sorgum(jawar),2014,Kharif Crops,1550.0
+66,bajri,2014,Kharif Crops,1250.0
+67,maize,2014,Kharif Crops,1310.0
+68,ragi_maldandi,2014,Kharif Crops,1550.0
+69,pigeon pea (tur),2014,Kharif Crops,4350.0
+70,spilt gerrn gram,2014,Kharif Crops,4600.0
+71,split black gram,2014,Kharif Crops,4350.0
+72,cotton,2014,Kharif Crops,3750.0
+73,cotton_long staple,2014,Kharif Crops,4050.0
+74,gr.nut kernels,2014,Kharif Crops,4000.0
+75,sunflower,2014,Kharif Crops,3750.0
+76,soyabean_black,2014,Kharif Crops,2500.0
+77,soyabean,2014,Kharif Crops,2560.0
+78,sesamum,2014,Kharif Crops,4600.0
+79,niger-seed,2014,Kharif Crops,3600.0
+80,wheat(husked),2014,Rabi Crops,1450.0
+81,wheat(unhusked),2014,Rabi Crops,1450.0
+82,barli,2014,Rabi Crops,1150.0
+83,gram_yellow,2014,Rabi Crops,3175.0
+84,masur_yellow,2014,Rabi Crops,3075.0
+85,mustard,2014,Rabi Crops,3100.0
+86,safflower,2014,Rabi Crops,3050.0
+87,toria_yellow,2014,Rabi Crops,3020.0
+88,copra (milling)_yellow,2014,Other Crops,5250.0
+89,copra (ball)_yellow,2014,Other Crops,5500.0
+90,coconut,2014,Other Crops,1425.0
+91,jute_yellow,2014,Other Crops,2400.0
+92,sugar-cane,2014,Other Crops,220.0
+93,paddy-unhusked,2015,Kharif Crops,1410.0
+94,rice(paddy-hus),2015,Kharif Crops,1450.0
+95,jowar_hybrid,2015,Kharif Crops,1570.0
+96,sorgum(jawar),2015,Kharif Crops,1590.0
+97,bajri,2015,Kharif Crops,1275.0
+98,maize,2015,Kharif Crops,1325.0
+99,ragi_maldandi,2015,Kharif Crops,1650.0
+100,pigeon pea (tur),2015,Kharif Crops,4425.0
+101,spilt gerrn gram,2015,Kharif Crops,4650.0
+102,split black gram,2015,Kharif Crops,4425.0
+103,cotton,2015,Kharif Crops,3800.0
+104,cotton_long staple,2015,Kharif Crops,4100.0
+105,gr.nut kernels,2015,Kharif Crops,4030.0
+106,sunflower,2015,Kharif Crops,3800.0
+107,soyabean_black,2015,Kharif Crops,2400.0
+108,soyabean,2015,Kharif Crops,2600.0
+109,sesamum,2015,Kharif Crops,4700.0
+110,niger-seed,2015,Kharif Crops,3650.0
+111,wheat(husked),2015,Rabi Crops,1525.0
+112,wheat(unhusked),2015,Rabi Crops,1525.0
+113,barli,2015,Rabi Crops,1225.0
+114,gram_yellow,2015,Rabi Crops,3425.0
+115,masur_yellow,2015,Rabi Crops,3325.0
+116,mustard,2015,Rabi Crops,3350.0
+117,safflower,2015,Rabi Crops,3300.0
+118,toria_yellow,2015,Rabi Crops,3290.0
+119,copra (milling)_yellow,2015,Other Crops,5550.0
+120,copra (ball)_yellow,2015,Other Crops,5830.0
+121,coconut,2015,Other Crops,1500.0
+122,jute_yellow,2015,Other Crops,2700.0
+123,sugar-cane,2015,Other Crops,230.0
+124,paddy-unhusked,2016,Kharif Crops,1470.0
+125,rice(paddy-hus),2016,Kharif Crops,1510.0
+126,jowar_hybrid,2016,Kharif Crops,1625.0
+127,sorgum(jawar),2016,Kharif Crops,1650.0
+128,bajri,2016,Kharif Crops,1330.0
+129,maize,2016,Kharif Crops,1365.0
+130,ragi_maldandi,2016,Kharif Crops,1725.0
+131,pigeon pea (tur),2016,Kharif Crops,4625.0
+132,spilt gerrn gram,2016,Kharif Crops,4800.0
+133,split black gram,2016,Kharif Crops,4575.0
+134,cotton,2016,Kharif Crops,3860.0
+135,cotton_long staple,2016,Kharif Crops,4160.0
+136,gr.nut kernels,2016,Kharif Crops,4120.0
+137,sunflower,2016,Kharif Crops,3850.0
+138,soyabean_black,2016,Kharif Crops,2400.0
+139,soyabean,2016,Kharif Crops,2675.0
+140,sesamum,2016,Kharif Crops,4800.0
+141,niger-seed,2016,Kharif Crops,3725.0
+142,wheat(husked),2016,Rabi Crops,1431.25
+143,wheat(unhusked),2016,Rabi Crops,1431.25
+144,barli,2016,Rabi Crops,1113.75
+145,gram_yellow,2016,Rabi Crops,3175.0
+146,masur_yellow,2016,Rabi Crops,3062.5
+147,mustard,2016,Rabi Crops,3125.0
+148,safflower,2016,Rabi Crops,3037.5
+149,toria_yellow,2016,Rabi Crops,3075.0
+150,copra (milling)_yellow,2016,Other Crops,5950.0
+151,copra (ball)_yellow,2016,Other Crops,6240.0
+152,coconut,2016,Other Crops,1600.0
+153,jute_yellow,2016,Other Crops,3200.0
+154,sugarcane,2016,Other Crops,230.0
